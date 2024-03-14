@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pr9</string>
+    <string name="acrion_settings">Settings</string>
+
+    <string name="bloiviaBO">BO</string>
+    <string name="japanJP">JP</string>
+    <string name="asiaNZ">NZ</string>
+    <string name="northamericaUS">US</string>
+
+    <string name="bloivia">Bolivia\nBolivian Boliviano\nLa paz</string>
+    <string name="japan">Japan\nJapanes Yen\nTokio</string>
+    <string name="asia">New Zealand\nNZ dollar\nVellinghton</string>
+    <string name="northamerica">United States\nDollarn\nWashinghton</string>
+
+    <string name="flag">flag</string>
+</resources>
